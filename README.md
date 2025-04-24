@@ -4,6 +4,7 @@ A modern, feature-rich starter template for building cross-platform applications
 
 [![NPM Version](https://img.shields.io/npm/v/react-expo-refract-ai.svg)](https://www.npmjs.com/package/react-expo-refract-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/svsairevanth12/react-expo-refract-ai)
 
 ## Features
 

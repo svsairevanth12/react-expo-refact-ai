@@ -134,6 +134,8 @@ To get started:
   cd ${projectName}
   npm run dev
 
+GitHub Repository: https://github.com/svsairevanth12/react-expo-refract-ai
+
 Happy coding!
   `);
 

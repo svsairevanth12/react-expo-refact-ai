@@ -2,6 +2,8 @@
 
 This document explains how to publish the React Expo Refract AI template to npm.
 
+GitHub Repository: [https://github.com/svsairevanth12/react-expo-refract-ai](https://github.com/svsairevanth12/react-expo-refract-ai)
+
 ## Prerequisites
 
 1. Create an npm account if you don't have one already:
