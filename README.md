@@ -74,4 +74,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Developed with ❤️ using Refract AI Agent
+Developed with ❤️ using Refract AI Agent by Sai Revanth
