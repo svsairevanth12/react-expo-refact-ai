@@ -2,7 +2,6 @@
 
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
 
 // Get project name from command line arguments
 const projectName = process.argv[2];
@@ -122,19 +121,18 @@ try {
 
   console.log('Template files copied successfully!');
 
-  // Install dependencies
-  console.log('Installing dependencies...');
-  process.chdir(projectDir);
-  execSync('npm install', { stdio: 'inherit' });
-
   console.log(`
 Project ${projectName} created successfully!
 
 To get started:
   cd ${projectName}
+  npm install    (This may take a few minutes)
   npm run dev
 
 GitHub Repository: https://github.com/svsairevanth12/react-expo-refact-ai
+
+Note: We've made the setup faster by not installing dependencies automatically.
+You'll need to run 'npm install' yourself, which gives you more control over the process.
 
 Happy coding!
   `);

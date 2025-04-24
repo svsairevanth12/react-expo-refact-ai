@@ -27,6 +27,9 @@ npx react-expo-refact-ai my-app
 # Navigate to your new project
 cd my-app
 
+# Install dependencies (this may take a few minutes)
+npm install
+
 # Start the development server
 npm run dev
 ```
@@ -64,6 +67,31 @@ npm run build:web
 
 # Lint your code
 npm run lint
+```
+
+## Installation Options
+
+If you're experiencing slow installation times, here are some alternatives:
+
+### Option 1: Use a faster package manager
+```bash
+# Install pnpm (if you don't have it already)
+npm install -g pnpm
+
+# Then use pnpm instead of npm
+pnpm install
+```
+
+### Option 2: Clone the repository directly
+```bash
+# Clone the repository
+git clone https://github.com/svsairevanth12/react-expo-refact-ai.git my-app
+
+# Navigate to the project
+cd my-app
+
+# Install dependencies
+npm install
 ```
 
 ## AI-Assisted Development
