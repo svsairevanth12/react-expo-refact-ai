@@ -9,7 +9,7 @@ const projectName = process.argv[2];
 
 if (!projectName) {
   console.error('Please specify a project name:');
-  console.error('  npx react-expo-refract-ai my-app');
+  console.error('  npx react-expo-refact-ai my-app');
   process.exit(1);
 }
 
@@ -134,7 +134,7 @@ To get started:
   cd ${projectName}
   npm run dev
 
-GitHub Repository: https://github.com/svsairevanth12/react-expo-refract-ai
+GitHub Repository: https://github.com/svsairevanth12/react-expo-refact-ai
 
 Happy coding!
   `);

@@ -1,26 +1,26 @@
 {
-  "name": "react-expo-refract-ai",
+  "name": "react-expo-refact-ai",
   "main": "expo-router/entry",
   "version": "1.0.1",
   "private": false,
-  "description": "A modern React Native Expo starter template with Refract AI capabilities",
+  "description": "A modern React Native Expo starter template with Refact AI capabilities",
   "keywords": [
     "react-native",
     "expo",
     "template",
     "starter",
     "ai",
-    "refract-ai",
-    "react-expo-refract-ai"
+    "refact-ai",
+    "react-expo-refact-ai"
   ],
-  "author": "Refract AI",
+  "author": "Refact AI",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/svsairevanth12/react-expo-refract-ai.git"
+    "url": "https://github.com/svsairevanth12/react-expo-refact-ai.git"
   },
   "bin": {
-    "react-expo-refract-ai": "bin/cli.js"
+    "react-expo-refact-ai": "bin/cli.js"
   },
   "scripts": {
     "dev": "EXPO_NO_TELEMETRY=1 expo start",

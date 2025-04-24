@@ -16,7 +16,7 @@ export default function HomeScreen() {
             style={styles.logo}
             resizeMode="contain"
           />
-          <Text style={styles.title}>React Expo Refract AI</Text>
+          <Text style={styles.title}>React Expo Refact AI</Text>
           <Text style={styles.subtitle}>
             A modern starter template for building cross-platform applications
           </Text>
@@ -56,7 +56,7 @@ export default function HomeScreen() {
 
         <View style={styles.footer}>
           <Text style={styles.footerText}>
-            Developed with ❤️ using Refract AI Agent
+            Developed with ❤️ using Refact AI Agent
           </Text>
         </View>
       </ScrollView>

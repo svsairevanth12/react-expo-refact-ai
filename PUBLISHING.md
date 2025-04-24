@@ -1,8 +1,8 @@
 # Publishing to npm
 
-This document explains how to publish the React Expo Refract AI template to npm.
+This document explains how to publish the React Expo Refact AI template to npm.
 
-GitHub Repository: [https://github.com/svsairevanth12/react-expo-refract-ai](https://github.com/svsairevanth12/react-expo-refract-ai)
+GitHub Repository: [https://github.com/svsairevanth12/react-expo-refact-ai](https://github.com/svsairevanth12/react-expo-refact-ai)
 
 ## Prerequisites
 
@@ -17,7 +17,7 @@ GitHub Repository: [https://github.com/svsairevanth12/react-expo-refract-ai](htt
 ## Publishing Steps
 
 1. Make sure your package.json is properly configured:
-   - name: "react-expo-refract-ai"
+   - name: "react-expo-refact-ai"
    - version: Update this when publishing a new version
    - private: false
    - bin: Points to your CLI script
@@ -50,11 +50,11 @@ GitHub Repository: [https://github.com/svsairevanth12/react-expo-refract-ai](htt
 Once published, users can create a new project using:
 
 ```bash
-npx react-expo-refract-ai my-app
+npx react-expo-refact-ai my-app
 ```
 
 This will:
 1. Create a new directory called "my-app"
 2. Copy all template files into the new directory
 3. Install all dependencies
-4. Set up the project with the React Expo Refract AI template
+4. Set up the project with the React Expo Refact AI template

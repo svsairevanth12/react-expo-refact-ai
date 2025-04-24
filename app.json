@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-expo-refract-ai",
-    "slug": "react-expo-refract-ai",
+    "name": "react-expo-refact-ai",
+    "slug": "react-expo-refact-ai",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",

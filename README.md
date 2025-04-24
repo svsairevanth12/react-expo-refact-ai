@@ -1,6 +1,6 @@
-# React Expo Refract AI Starter
+# React Expo Refact AI Starter
 
-A modern, feature-rich starter template for building cross-platform applications with React Native and Expo, powered by Refract AI. This template is optimized for AI-assisted development with tools like Refract AI, BlackBox AI, Cursor, WindSurf, and other AI agents.
+A modern, feature-rich starter template for building cross-platform applications with React Native and Expo, powered by Refact AI. This template is optimized for AI-assisted development with tools like Refact AI, BlackBox AI, Cursor, WindSurf, and other AI agents.
 
 [![NPM Version](https://img.shields.io/npm/v/react-expo-refract-ai.svg)](https://www.npmjs.com/package/react-expo-refract-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -73,7 +73,7 @@ This template is specifically designed to work seamlessly with AI coding tools a
 - **Optimized Structure**: Clean, consistent code organization that AI tools can easily understand
 - **Clear Documentation**: Well-commented code with descriptive variable names
 - **AI Tool Compatibility**: Tested with popular AI coding assistants:
-  - [Refract AI](https://refact.ai/) - For intelligent code generation and refactoring
+  - [Refact AI](https://refact.ai/) - For intelligent code generation and refactoring
   - [BlackBox AI](https://www.useblackbox.io/) - For code completion and suggestions
   - [Cursor](https://cursor.sh/) - AI-powered code editor
   - [WindSurf](https://www.windsurf.io/) - AI pair programming
@@ -91,4 +91,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Developed with ❤️ using Refract AI Agent by Sai Revanth | Optimized for AI-assisted development
+Developed with ❤️ using Refact AI Agent by Sai Revanth | Optimized for AI-assisted development
