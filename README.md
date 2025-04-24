@@ -2,9 +2,9 @@
 
 A modern, feature-rich starter template for building cross-platform applications with React Native and Expo, powered by Refact AI. This template is optimized for AI-assisted development with tools like Refact AI, BlackBox AI, Cursor, WindSurf, and other AI agents.
 
-[![NPM Version](https://img.shields.io/npm/v/react-expo-refract-ai.svg)](https://www.npmjs.com/package/react-expo-refract-ai)
+[![NPM Version](https://img.shields.io/npm/v/react-expo-refact-ai.svg)](https://www.npmjs.com/package/react-expo-refact-ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/svsairevanth12/react-expo-refract-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-green.svg)](https://github.com/svsairevanth12/react-expo-refact-ai)
 
 ## Features
 
@@ -22,7 +22,7 @@ Get up and running in seconds:
 
 ```bash
 # Create a new project using this template
-npx react-expo-refract-ai my-app
+npx react-expo-refact-ai my-app
 
 # Navigate to your new project
 cd my-app
