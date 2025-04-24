@@ -1,7 +1,7 @@
 {
   "name": "react-expo-refract-ai",
   "main": "expo-router/entry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "A modern React Native Expo starter template with Refract AI capabilities",
   "keywords": [
