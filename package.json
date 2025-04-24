@@ -1,7 +1,7 @@
 {
   "name": "react-expo-refact-ai",
   "main": "expo-router/entry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "A modern React Native Expo starter template with Refact AI capabilities",
   "keywords": [
